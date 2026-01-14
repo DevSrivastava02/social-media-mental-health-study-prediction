@@ -45,4 +45,16 @@ Multiple UI styles
 User-friendly interface
 
 🔗 Live App: [Add Streamlit Cloud link]
-📸 Screenshots: 
+📸 Screenshots: <img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/48ac64a8-f7c5-42cf-8443-44135edf0566" />
+
+🚀 Run Locally
+streamlit run app.py
+
+🧰 Tech Stack
+
+Python | Pandas | Scikit-learn | XGBoost | Streamlit
+
+👤 Author
+
+Dev Srivastava
+GitHub: https://github.com/DevSrivastava02
